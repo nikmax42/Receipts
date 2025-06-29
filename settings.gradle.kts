@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Shopping List"
 include(":app")
+include(":core")
+include(":home")
+include(":list")

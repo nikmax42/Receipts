@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="must_not_be_the_same">Must not be the same</string>
+    <string name="must_not_be_blank">Must not be blank</string>
+</resources>

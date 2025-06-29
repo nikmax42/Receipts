@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_lists_created">Press "+" to create your first shopping list</string>
+    <string name="nothing_found">Nothing found…</string>
+    <string name="icon">Icon</string>
+    <string name="deletion_confirmation_title">Delete lists?</string>
+    <string name="deletion_confirmation_text">Are you sure you want to delete selected shopping lists?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_selected_lists">Delete selected lists</string>
+    <string name="cancel">Cancel</string>
+    <string name="x_from_y_lists_selected">%1$d/%2$d lists selected</string>
+    <string name="clear_selection">Clear selection</string>
+    <string name="create_list">Create list</string>
+    <string name="list_name">List name</string>
+    <string name="must_not_be_blank">Must not be blank</string>
+    <string name="create">Create</string>
+    <string name="search_placeholder">Search lists…</string>
+    <string name="back">Back</string>
+    <string name="search_bar">Search bar</string>
+    <string name="search_bar_expanded">Search bar (expanded)</string>
+    <string name="currency">Currency</string>
+    <string name="clear">Clear</string>
+    <string name="x_of_y_items">%1$d/%2$d items</string>
+    <string name="x_items">%1$d items</string>
+</resources>
