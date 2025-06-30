@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon">Icon</string>
+    <string name="back">Navigate back</string>
+    <string name="rename_list">Rename list</string>
+    <string name="delete_list">Delete list</string>
+    <string name="deletion_dialog_title">Delete list?</string>
+    <string name="deletion_dialog_text">Delete this list with all items?</string>
+    <string name="no_items_created">Press "+" to add the first item</string>
+    <string name="name">Name</string>
+    <string name="new_name">New name</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="delete_item">Delete item</string>
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="amount">Amount</string>
+    <string name="price">Price</string>
+    <string name="add">Add</string>
+    <string name="add_item">Add item</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="positive_number_required">Positive number required</string>
+    <string name="number_required">Number required</string>
+    <string name="is_completed">Is completed</string>
+    <string name="is_not_completed">Is not completed</string>
+</resources>
